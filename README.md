@@ -11,7 +11,7 @@ class AboutMe:
         self.goals = ["Collaborate on open-source projects", "Find an internship"]
 
     def hobbies(self):
-        return ["Music (drummer)", "Watching movies and TV shows", "Reading (fiction and comics)"]
+        return ["Drumming", "Watching movies and TV shows", "Reading (fiction and comics)"]
 
     def future_plans(self):
         return "Expand skills in data science and AI, and contribute to impactful projects."
